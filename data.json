@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "student" :"idris",
+    "course":"fullStack",
+    "duration":"1year"
+
+  },
+  {
+    "id": "2",
+    "student" :"toheeb",
+    "course":"backEnd",
+    "duration":"1year"
+
+  },
+  {
+    "id": "3",
+    "student" :"idris",
+    "course":"fronEnd",
+    "duration":"1year"
+
+  },
+  {
+    "id": "4",
+    "student" :"vicktor",
+    "course":"frontEnd",
+    "duration":"1year"
+
+  },
+  {
+    "id": "5",
+    "student" :"idris",
+    "course":"",
+    "duration":"1year"
+
+  },
+  {
+    "id": "6",
+    "student" :"david",
+    "course":"fullStack",
+    "duration":"1year"
+
+  },
+  {
+    "id": "7",
+    "student" :"dickson",
+    "course":"fullStack",
+    "duration":"1year"
+
+  },
+  {
+    "id": "8",
+    "student" :"david",
+    "course":"fullStack",
+    "duration":"1year"
+
+  },
+  {
+    "id": "9",
+    "student" :"emma",
+    "course":"fullStack",
+    "duration":"1year"
+
+  }
+  
+
+
+
+
+
+]
